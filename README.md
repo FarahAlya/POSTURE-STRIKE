@@ -21,14 +21,14 @@ Players are immersed in a  combat scenario while their upper body posture is con
 - Visual feedback via UI for posture health
 - Shooting mechanics
 - Developed fully in **Unreal Engine 5.0**
-- Meta Quest 3 S
+- Oculus Quest 3 S
   
 🎮 Developer Role:
 Solo Developer – Game design, programming, RULA integration, and UX
 
 
 🎮 Gameplay Video:
-[Insert Gameplay Video Link Here]
+[[Gameplay Video Link Here](https://youtu.be/9JB4robkNho)]
 
 📁 Notes:
 - This version is for **demonstration purposes only**.
